@@ -1,6 +1,6 @@
 Type=Exe
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Reference=*\G{ECA54845-9CF8-4A99-A1D4-0F40A34C60D6}#1.0#0#..\..\documents\visual studio 2015\Projects\COMOpenKitWrapper\COMOpenKitWrapper\bin\Debug\COMOpenKitWrapper.tlb#COMOpenKitWrapper
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{ECA54845-9CF8-4A99-A1D4-0F40A34C60D6}#1.0#0#..\..\..\documents\visual studio 2015\Projects\COMOpenKitWrapper\COMOpenKitWrapper\bin\Debug\COMOpenKitWrapper.tlb#COMOpenKitWrapper
 Object={248DD890-BB45-11CF-9ABC-0080C7E7B78D}#1.0#0; MSWINSCK.OCX
 Form=frmLogin.frm
 Form=frmMainPage.frm

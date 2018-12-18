@@ -2,14 +2,14 @@ VERSION 5.00
 Begin VB.Form frmLogin 
    BorderStyle     =   3  'Fixed Dialog
    Caption         =   "Login"
-   ClientHeight    =   1545
+   ClientHeight    =   2205
    ClientLeft      =   2835
    ClientTop       =   3480
    ClientWidth     =   3750
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   ScaleHeight     =   912.837
+   ScaleHeight     =   1302.787
    ScaleMode       =   0  'User
    ScaleWidth      =   3521.047
    ShowInTaskbar   =   0   'False
@@ -48,6 +48,14 @@ Begin VB.Form frmLogin
       ToolTipText     =   "Hint : ""password"""
       Top             =   525
       Width           =   2325
+   End
+   Begin VB.Label lblPassHint 
+      Caption         =   "The Password is ""password"" without quotes"
+      Height          =   255
+      Left            =   240
+      TabIndex        =   6
+      Top             =   1680
+      Width           =   3255
    End
    Begin VB.Label lblLabels 
       Caption         =   "&User Name:"
